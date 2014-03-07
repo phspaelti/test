@@ -1,5 +1,5 @@
 test
 ====
 
-eponymous
-this is not a test.
+eponymous.
+This is not a test.
